@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+header, footer { background: #004080; color: white; padding: 10px; text-align: center; }
+nav a { color: white; margin: 0 10px; text-decoration: none; }
+section { padding: 20px; background: white; margin: 20px; border-radius: 8px; }
+iframe { display: block; margin: 20px auto; }
