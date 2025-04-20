@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\vik_m\Downloads\Code Review Project\CS-300 enhanced\CoursePlannerApp\main.cpp(79,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  CoursePlannerApp.vcxproj -> C:\Users\vik_m\Downloads\Code Review Project\CS-300 enhanced\CoursePlannerApp\x64\Debug\CoursePlannerApp.exe
